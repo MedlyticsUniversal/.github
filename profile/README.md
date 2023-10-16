@@ -1,5 +1,8 @@
 ## Hi there 👋
 Welcome to Medlytics Universal!
+
+[Week 1](https://github.com/MedlyticsUniversal/Week1)
+[Week 2](https://github.com/MedlyticsUniversal/Week2)
 <!--
 
 **Here are some ideas to get you started:**
