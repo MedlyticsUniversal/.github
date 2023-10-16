@@ -1,11 +1,11 @@
 ## Hi there 👋
 Welcome to Medlytics Universal!
 
-[Week 1](https://github.com/MedlyticsUniversal/Week1)
+[Week 1](https://github.com/MedlyticsUniversal/Week1): "First do no harm"
 
-[Week 2](https://github.com/MedlyticsUniversal/Week2)
+[Week 2](https://github.com/MedlyticsUniversal/Week2): “There is art to medicine as well as science”
 
-[Week 3](https://github.com/MedlyticsUniversal/Week3)
+[Week 3](https://github.com/MedlyticsUniversal/Week3): “I will not be ashamed to say ‘I know not’”
 <!--
 
 **Here are some ideas to get you started:**
