@@ -7,7 +7,7 @@ Welcome to Medlytics Universal!
 
 [Week 3](https://github.com/MedlyticsUniversal/Week3): “I will not be ashamed to say ‘I know not’”
 
-[Challenge Project Evaluator](https://medlytics-evaluator.streamlit.app/)
+[Challenge Project Evaluator](https://medlytics-evaluator.streamlit.app/): 🦫 🧂 😴 🎗️
 <!--
 
 **Here are some ideas to get you started:**
